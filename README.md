@@ -1,6 +1,6 @@
 # FireFront-Detect
-Codes Used on My Thesis Work - Supervised Methods on Fire and Smoke detection ( FireFront Project )
-All the codes produced are ment to be executed on Google Colab environment using Python3
+Codes Used on My Thesis Work - Supervised Methods on Fire and Smoke detection ( FireFront Project ).
+All the codes produced are ment to be executed on Google Colab environment using Python3.
 
 
 On first part of the project I worked on a global image classifier using different networks. The objective was to detect if a certain image contains fire or not, not giving any information about the localization of that fire.
@@ -17,3 +17,5 @@ given images in areas of fire and non-fire ( binarization )
 Netowrks used:
 
 U-Net: [code](https://github.com/g0nzal0rd/FireFront-Detect/blob/master/Segmentation%20Networks/U-Net/U-Net/U-Net.ipynb)
+
+Dataset created still to be published...
