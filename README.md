@@ -6,7 +6,7 @@ All the codes produced are ment to be executed on Google Colab environment using
 On first part of the project I worked on a global image classifier using different networks. The objective was to detect if a certain image contains fire or not, not giving any information about the localization of that fire.
 Networks used:
 
-AlexNet: [AlexNet Fire detection.ipynb](Global Image Classifier/AlexNet/AlexNet Fire detection.ipynb)
+AlexNet: [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 SqueezeNet: [Global Image Classifiers](SqueezeNet.pythn)
 
