@@ -14,8 +14,12 @@ SqueezeNet: [code](https://github.com/g0nzal0rd/FireFront-Detect/blob/master/Glo
 Then I moved on to segmentation networks in which I used fully supervised training methods to train. The networks are able to segment the 
 given images in areas of fire and non-fire ( binarization )
 
-Netowrks used:
+Networks used:
 
 U-Net: [code](https://github.com/g0nzal0rd/FireFront-Detect/blob/master/Segmentation%20Networks/U-Net/U-Net/U-Net.ipynb)
 
 Dataset created still to be published...
+
+In order to solve the multi-scale problem of detection we use a Quad-Tree algorithm to dynamically slice the input images into smaller patches to help the network detect smaller regions of the phenomenon:
+
+Quad-Tree code:
