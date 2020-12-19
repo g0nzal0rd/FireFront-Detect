@@ -22,4 +22,4 @@ Dataset created still to be published...
 
 In order to solve the multi-scale problem of detection we use a Quad-Tree algorithm to dynamically slice the input images into smaller patches to help the network detect smaller regions of the phenomenon. The next code file includes the Quad-Tree implementation and the calculation for the system performance:
 
-Global System: 
+Global System: [code]([https://github.com/g0nzal0rd/FireFront-Detect/blob/master/Global_System.ipynb)
