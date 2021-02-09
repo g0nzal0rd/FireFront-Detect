@@ -24,7 +24,8 @@ In order to solve the multi-scale problem of detection we use a Quad-Tree algori
 
 Global System: [code](https://github.com/g0nzal0rd/FireFront-Detect/blob/master/Global_System.ipynb)
 
-The trained networks for both classes can be downloaded below:
+
+The saved parameters for both networks, for both classes, can be downloaded below:
 
 SqueezeNet Fire : [code](https://github.com/g0nzal0rd/FireFront-Detect/blob/master/TrainedNetworks/squeezenet_final.h5)
 
